@@ -56,3 +56,21 @@ Besides I'm a perfect team player with a versatile personality and a sense of hu
     return true;
  }
  ```
+
+#### Education:
+2010-2014, Minsk State Economical University (logistics)
+
+#### Courses:
+RSSchool Frontend Developer 2021
+
+##### Self-study (JS, HTML, CSS):
+* [w3schools.com]()
+* [learn.javascript.ru](https://learn.javascript.ru/)
+* [codecademy.com](https://www.codecademy.com/)
+* [css-tricks.com](https://css-tricks.com/snippets/css/)
+* [webref.ru](https://webref.ru/)      
+
+
+####Languages:
+1. English (B2 Upper-Intermediate)
+2. Russian (Native)  
