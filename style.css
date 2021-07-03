@@ -1,0 +1,151 @@
+
+
+* {
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:#f5eeee ;
+}
+
+.main-container{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-section {
+    display: flex;
+    width: 100%;
+}
+
+.side-bar {
+    width: 33%;
+    color: lightgrey;
+    background: #393939;
+}
+
+.main-content {
+    width: 67%;
+    color: black;
+    background-color: #f1f1f1;
+
+}
+
+.main-info{
+    margin: 0 15% 5% 10%;
+}
+
+p {
+    text-align: justify;
+    font-weight: bold;
+}
+
+.my-photo {
+    display: flex;
+    margin: 10% auto;
+    width: 70%;
+    border: 5px solid white;
+}
+
+.main-content li{
+    font-weight: bold;
+    list-style-type: none;
+    list-style-position: inside;
+    margin-bottom: 3%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.side-header{
+    margin-left: 15%;
+    padding: 5% 0;
+    border-bottom: 1px solid #f2f2f2;
+    color: lightgrey;
+}
+
+.small-side-header {
+    margin-left: 15%;
+    padding: 5% 0;
+}
+
+.side-bar li {
+    list-style-type: none;
+    list-style-position: inside;
+    margin-bottom: 3%;
+    margin-left: 15%;
+    font-weight: bold;
+}
+
+.side-icon {
+    margin-right: 5%;
+}
+
+.main-icon {
+    margin-right: 3%;
+}
+
+.contacts{
+    margin-top: 5%;
+}
+
+h1, h2, h3 {
+    color: #3c4155;
+}
+
+header {
+    text-align: center;
+    margin: 35px auto;
+}
+
+.name {
+    font-size: 400%;
+    padding: 3%;
+    background: #a5a5a5;
+    box-shadow: 0px 10px 8px #888888
+}
+
+.goal {
+    font-size: 250%;
+    padding-bottom: 80px;
+    margin-top: 5%
+}
+
+.main-content-header {
+    font-size: 150%;
+    padding: 10px 0;
+    border-bottom: 1px solid;
+    margin-bottom: 2%;
+}
+
+.footer-cv {
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    padding-top: 20px;
+    padding-left: 4%;
+    padding-right: 7%;
+    padding-bottom: 20px;
+    align-items: center;
+    background: #b7bfc1 ;
+    color: #fff;
+}
+
+.footer-picture {
+    background-image: url("https://rs.school/images/rs_school_js.svg");
+    background-size: contain;
+    width: 100px;
+    height: 38px;
+    margin-right: 100px;
+}
+
+.footer-icon {
+    margin-right: 2%;
+}
