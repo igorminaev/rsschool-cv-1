@@ -10,7 +10,7 @@ CV
 
 ![Hanna Prikhodko](https://avatars.githubusercontent.com/u/81716142?v=4)
 
-####Goal: position of Junior JavaScript Developer  
+#### Goal: position of Junior JavaScript Developer  
 I have 8 years’ experience of stress resistance and attention to details due to the vast logistics practice (improvement of business processes, negotiations, contracts).
 
 So I have a good track record in logistics projects and it's time to upgrade them in a new sphere.
@@ -22,19 +22,19 @@ Besides I'm a perfect team player with a versatile personality and a sense of hu
 **Github:** [prikhodkohanna](https://github.com/PrikhodkoAnna) 
  
 **Employment:** Full-time, ready to travel
-
 #### Programming skills:
- ##### Languages and technologies:
+
+##### Languages and technologies:
   * HTML
   * CSS   
   * JavaScript
   
-  ##### Tools and environment:
+##### Tools and environment:
   * Webstorm
   * MS Visual Studio Code
   * Git
   
-  ##### Code example:
+##### Code example:
  ```
  var isAnagram = function isAnagram(test, original) {
     test = String(test).toLowerCase();
@@ -71,6 +71,6 @@ RSSchool Frontend Developer 2021
 * [webref.ru](https://webref.ru/)      
 
 
-####Languages:
+#### Languages:
 1. English (B2 Upper-Intermediate)
 2. Russian (Native)  
